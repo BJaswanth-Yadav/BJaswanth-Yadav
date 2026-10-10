@@ -70,14 +70,14 @@ I'm now focused on learning cybersecurity, understanding how systems and network
 ## `> current_mission`
 
 ```text
-$ status
 
-[+] Learning cybersecurity fundamentals
-[+] Exploring network security
-[+] Understanding operating system security
-[+] Studying security principles and vulnerabilities
-[+] Practising technical concepts
-[+] Working towards practical projects
+
+ Learning cybersecurity fundamentals
+ Exploring network security
+ Understanding operating system security
+ Studying security principles and vulnerabilities
+ Practising technical concepts
+ Working towards practical projects
 ```
 ---
 

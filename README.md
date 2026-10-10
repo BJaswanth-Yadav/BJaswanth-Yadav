@@ -11,12 +11,17 @@
 
 ## `> Who Am I`
 Hi, I'm **B. Jaswanth Yadav** — a technology enthusiast with a background in software development and IT fundamentals.
+
 At 17, I began my professional journey through the HCLTech TechBee programme in Noida, spending approximately 10 months gaining technical knowledge and experience.
 
 I'm now focused on learning cybersecurity, understanding how systems and networks work, and developing practical technical skills.
 
-<img width="563" height="602" alt="Cybersecurity Banner" src="https://github.com/user-attachments/assets/185e2b60-2151-49a5-98ef-a8a4dbc354bb" />
+<div align="center">
 
+<img src="https://github.com/user-attachments/assets/9c760aad-c96d-43e5-8711-7b9700df5394" alt="B. Jaswanth Yadav Cybersecurity Portfolio Banner" />
+
+
+</div>
 ---
 
 ## `> Technical Skills`

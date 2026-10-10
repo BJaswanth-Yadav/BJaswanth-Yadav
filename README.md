@@ -121,4 +121,3 @@ I believe in learning consistently, solving problems, and using technology respo
 <strong>LEARN // BUILD // SECURE // EVOLVE</strong>
 
 </div>
-<img width="1217" height="1292" alt="cyber-banner png" src="https://github.com/user-attachments/assets/cc77ded6-1d32-40f3-9c5a-1b3cb0bcb133" />

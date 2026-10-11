@@ -17,11 +17,9 @@ At 17, I began my professional journey through the HCLTech TechBee programme in 
 I'm now focused on learning cybersecurity, understanding how systems and networks work, and developing practical technical skills.
 
 <div align="center">
+<img width="800" height="800" alt="Cyber Banner" src="https://github.com/user-attachments/assets/4cfd3dbd-f602-4437-a60b-a608c49a207d" />
+</div
 
-<img src="https://github.com/user-attachments/assets/9c760aad-c96d-43e5-8711-7b9700df5394" alt="B. Jaswanth Yadav Cybersecurity Portfolio Banner" />
-
-
-</div>
 ---
 
 ## `> Technical Skills`
@@ -58,7 +56,7 @@ I'm now focused on learning cybersecurity, understanding how systems and network
 
 ## `> Current Mission`
 
-```text
+```
  Cybersecurity fundamentals
  Networking and security concepts
  Operating system security
